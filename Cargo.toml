@@ -1,0 +1,9 @@
+[package]
+name = "rx_bevy_dogfood"
+version = "0.1.0"
+edition = "2024"
+publish = false
+
+[dependencies]
+bevy = { version = "0.16.1" }
+rx_bevy = { version = "0.1.0" }
