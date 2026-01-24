@@ -5,5 +5,5 @@ edition = "2024"
 publish = false
 
 [dependencies]
-bevy = { version = "0.16.1" }
-rx_bevy = { version = "0.1.0" }
+bevy = { version = "0.17.3" }
+rx_bevy = { version = "0.2.0" }
